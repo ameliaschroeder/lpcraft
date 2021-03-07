@@ -1,0 +1,15 @@
+{
+  "name": "lpcraft",
+  "version": "1.0.0",
+  "description": "lincoln park craft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vir_agp",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.24.3",
+    "webpack-cli": "^4.5.0"
+  }
+}
